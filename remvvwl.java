@@ -1,5 +1,3 @@
-package player;
-
 public class remvvwl {
 public static void main(String[] args) {
 	String rev=args[0].replaceAll("[aeiouAEIOU]","");
