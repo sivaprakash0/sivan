@@ -1,5 +1,3 @@
-package set2;
-
 public class reploded {
 public static void main(String[] args) {
 	char c[]=args[0].toCharArray();
